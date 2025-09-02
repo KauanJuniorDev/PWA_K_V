@@ -1,0 +1,6 @@
+{
+	"name": "PWA_K_D",
+	"short_name": "PWAKD",
+	"start_url": "index.html",
+	"display": "standalone"
+}
