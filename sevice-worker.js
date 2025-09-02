@@ -1,4 +1,4 @@
-const CACHE_NAME = "meu-pwa-k-v-cache-v1";
+const CACHE_NAME = "meu-pwa-k-v-cache-v1.02";
 const FILES_TO_CACHE = [
    "index.html",
    "manifest.json"
@@ -28,3 +28,4 @@ self.addEventListener("fetch", event => {
         })
     );
 });
+
